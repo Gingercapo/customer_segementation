@@ -1,12 +1,26 @@
 # customer_segementation_ Analysis
-The is a data analysis portfolio project that will allow me to perform customer segmentation on a specific group of mall customers
+This is a data analysis portfolio project that will allow me to perform customer segmentation and clustering on a specific mall customers
 
 # Problem Statement
 * understand the target customer for the marketing team to plan a strategy.
 * My boss want me to identify the most important shopping group based on income age and the mall shopping score.
 * He want the ideal number of group with a label for each.  
 
-<img width="1362" alt="Screenshot 2022-03-22 at 01 21 42" src="https://user-images.githubusercontent.com/56441231/159395734-b44b1fce-ab4e-4719-91a4-6d4acab18ad9.png">
+<img width="639" alt="Screenshot 2022-03-22 at 03 45 24" src="https://user-images.githubusercontent.com/56441231/159397746-23bd89a8-5a47-4edd-b3eb-8289f915076e.png">
+
+# Analysis 
+### target Cluster
+* The taget group would be cluster 1 which has a high annual income and spending score
+* 54 percent of cluster 1 shopper are woman, We should look for a way to attract the customer using a marketing campaign targeting popular items in this cluster.
+* Cluster 2 present an interesting opportunity to the market and to the customers for sale event on popular items.
+
+
+### Quick way for me to identify clusters at a glance btw two varibles.
+
+* cluster 1 has a high annual income with a lower age and high spending score which will be ideal to run campaign on
+* but the lowest age is cluster 3
+* cluster 4 has a low annual income and a high spending score
 
 <img width="709" alt="Screenshot 2022-03-22 at 02 56 51" src="https://user-images.githubusercontent.com/56441231/159395993-8760ac91-1f9b-4bbf-859a-e490a50508f4.png">
+
 
