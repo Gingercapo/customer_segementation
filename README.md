@@ -1,5 +1,5 @@
 # customer_segementation_ Analysis
-This is a data analysis portfolio project that will allow me to perform customer segmentation and clustering on a specific mall customers
+- This is a data analysis portfolio project that will allow me to perform customer segmentation and clustering on a specific mall customers
 
 # Problem Statement
 * understand the target customer for the marketing team to plan a strategy.
